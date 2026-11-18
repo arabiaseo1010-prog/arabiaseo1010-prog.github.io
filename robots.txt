@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://arabiaseo1010-proggithubio.vercel.app/sitemap.xml
